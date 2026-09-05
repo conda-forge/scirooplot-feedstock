@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "3.3.1"
+  version: "3.3.2"
 
 package:
   name: scirooplot
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/SciRooPlot/SciRooPlot/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 95f2755fe695434feba8601b516760661e3f011524ef37372b1d01175ecfffad
+  sha256: 62f6ac99f0ae90d509f96910a66cdd5ec06cec5373f99fe75843e767c54bf249
 
 build:
   number: 0
